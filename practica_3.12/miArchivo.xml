@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+  <pelicula peli_id="1">
+    <titulo>SOUL</titulo>
+    <año>2019</año>
+    <genero>Infantil</genero>
+    <clasificacion>A</clasificacion>
+  </pelicula>
+<pelicula peli_id="2"><titulo>AVENGERS</titulo><año>2010</año><genero>Acción</genero><clasificacion>AA</clasificacion></pelicula><pelicula peli_id="3"><titulo>Son como niños</titulo><año>2006</año><genero>Comedia</genero><clasificacion>B15</clasificacion></pelicula></peliculas>
