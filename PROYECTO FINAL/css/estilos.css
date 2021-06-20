@@ -1,0 +1,65 @@
+.ct-series-a .ct-bar {
+  /* Color de las barras de la primer serie*/
+  stroke: rgb(231, 5, 156);
+  /* El ancho de las barras */
+  stroke-width: 25px;
+  
+}
+.ct-series-b .ct-bar {
+  /* Color de las barras de la segunda serie */
+  stroke: rgb(245, 73, 21);
+  /* El ancho de las barras */
+  stroke-width: 25px;
+  
+}
+.ct-series-c .ct-bar {
+  /* Color de las barras de la primer serie*/
+  stroke: rgb(231, 5, 156);
+  /* El ancho de las barras */
+  stroke-width: 25px;
+  
+}
+.ct-series-d .ct-bar {
+  /* Color de las barras de la primer serie*/
+  stroke: rgb(231, 5, 156);
+  /* El ancho de las barras */
+  stroke-width: 25px;
+  
+}
+.ct-series-e .ct-bar {
+  /* Color de las barras de la primer serie*/
+  stroke: rgb(231, 5, 156);
+  /* El ancho de las barras */
+  stroke-width: 25px;
+  
+}
+.ct-series-f .ct-bar {
+  /* Color de las barras de la primer serie*/
+  stroke: rgb(231, 5, 156);
+  /* El ancho de las barras */
+  stroke-width: 25px;
+  
+}
+.temp-box{
+  width: 50px;
+  
+}
+.temp{
+  display: inline-flex;
+}
+.max{
+background-color: goldenrod;
+
+}
+.min{
+  background-color: royalblue;
+}
+.subt{
+  display: block;
+  color: blueviolet;
+  
+  font-size: large;
+}
+.centro{
+  text-align: center;
+}

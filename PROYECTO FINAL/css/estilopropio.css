@@ -1,0 +1,40 @@
+h2{
+    text-align: center;
+}
+th{
+    text-align: center;
+}
+.ct-series-a .ct-bar {
+    stroke: rgb(119, 252, 115);
+    stroke-width: 50px;
+}
+
+.ct-series-b .ct-bar {
+    stroke: rgb(181, 115, 252);
+    stroke-width: 50px;
+}
+
+.ct-series-c .ct-bar {
+    stroke: rgb(252, 177, 116);
+    stroke-width: 50px;
+}
+
+.ct-series-d .ct-bar {
+    stroke: rgb(252, 250, 115);
+    stroke-width: 50px;
+}
+
+.ct-series-e .ct-bar {
+    stroke: rgb(115, 202, 252);
+    stroke-width: 50px;
+}
+
+.ct-series-f .ct-bar {
+    stroke: rgb(252, 115, 167);
+    stroke-width: 50px;
+}
+
+.ct-series-a .ct-line {
+    stroke: rgb(252, 115, 115);
+    stroke-width: 10px;
+}
